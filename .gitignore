@@ -1,0 +1,14 @@
+node_modules
+dist
+__pycache__
+*.log
+logs
+.venv
+
+backend/__pycache__
+backend/logs
+backend/venv
+backend/.env
+old-app/
+old-app
+bg_remover.log
